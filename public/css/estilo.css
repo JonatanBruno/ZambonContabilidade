@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+body h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table img{
+    width: 80px;
+}
+
+.botao1{
+    margin-left: 5px;
+    margin-right: 5px;
+}
